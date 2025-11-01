@@ -24,6 +24,12 @@
 #let font-config = (
   // 本文フォント
   main-font: "Noto Serif CJK JP",
+  
+  // "Times New Roman", // Windows
+  // "Nimbus Roman", // Ubuntu
+  // "Hiragino Mincho ProN", // Mac
+  // "Yu Mincho", // Windows
+  // "Noto Serif CJK JP", // Ubuntu
 
   // 本文サイズ
   main-size: 11pt,
